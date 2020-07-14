@@ -1,2 +1,0 @@
-# gql-app
-Begin app
